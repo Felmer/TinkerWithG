@@ -183,13 +183,13 @@
 			<Property Name="NI.ClassItem.Property.ShortName" Type="Str">CB Current Velocity</Property>
 			<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
 			<Item Name="Read CB Current Velocity.vi" Type="VI" URL="../Properties/Read CB Current Velocity.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%1#!#!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;X!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"F!"A!41U)A1X6S=G6O&gt;#"7:7RP9WFU?1!?1(!!'1!"!!541U)A1X6S=G6O&gt;#"7:7RP9WFU?1!]1(!!(A!!*"&amp;5;7ZL:8*G&lt;X*H:3ZM&gt;GRJ9B"%1S"#=GFD;SZM&gt;G.M98.T!!!-2%-A1H*J9WMA&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$J!=!!?!!!E%62J&lt;GNF=G:P=G&gt;F,GRW&lt;'FC%%2$)%*S;7.L,GRW9WRB=X-!!!N%1S"#=GFD;S"J&lt;A"B!0!!$!!$!!1!"A!(!!1!"!!%!!1!#!!%!!1!#1)!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!+!!!!!!</Property>
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%1#!#!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;X!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"F!!A!41U)A1X6S=G6O&gt;#"7:7RP9WFU?1!?1(!!'1!"!!541U)A1X6S=G6O&gt;#"7:7RP9WFU?1!]1(!!(A!!*"&amp;5;7ZL:8*G&lt;X*H:3ZM&gt;GRJ9B"%1S"#=GFD;SZM&gt;G.M98.T!!!-2%-A1H*J9WMA&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$J!=!!?!!!E%62J&lt;GNF=G:P=G&gt;F,GRW&lt;'FC%%2$)%*S;7.L,GRW9WRB=X-!!!N%1S"#=GFD;S"J&lt;A"B!0!!$!!$!!1!"A!(!!1!"!!%!!1!#!!%!!1!#1)!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!+!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342972416</Property>
 			</Item>
 		</Item>
 		<Item Name="CB Emergency Shutdown" Type="Property Definition">
@@ -225,13 +225,13 @@
 			<Property Name="NI.ClassItem.Property.ShortName" Type="Str">CB Velocity Reached</Property>
 			<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
 			<Item Name="Read CB Velocity Reached.vi" Type="VI" URL="../Properties/Read CB Velocity Reached.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%1#!#!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;X!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"F!"A!41U)A6G6M&lt;W.J&gt;(EA5G6B9WBF:!!?1(!!'1!"!!541U)A6G6M&lt;W.J&gt;(EA5G6B9WBF:!!]1(!!(A!!*"&amp;5;7ZL:8*G&lt;X*H:3ZM&gt;GRJ9B"%1S"#=GFD;SZM&gt;G.M98.T!!!-2%-A1H*J9WMA&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$J!=!!?!!!E%62J&lt;GNF=G:P=G&gt;F,GRW&lt;'FC%%2$)%*S;7.L,GRW9WRB=X-!!!N%1S"#=GFD;S"J&lt;A"B!0!!$!!$!!1!"A!(!!1!"!!%!!1!#!!%!!1!#1)!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!+!!!!!!</Property>
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%1#!#!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;X!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"F!!A!41U)A6G6M&lt;W.J&gt;(EA5G6B9WBF:!!?1(!!'1!"!!541U)A6G6M&lt;W.J&gt;(EA5G6B9WBF:!!]1(!!(A!!*"&amp;5;7ZL:8*G&lt;X*H:3ZM&gt;GRJ9B"%1S"#=GFD;SZM&gt;G.M98.T!!!-2%-A1H*J9WMA&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$J!=!!?!!!E%62J&lt;GNF=G:P=G&gt;F,GRW&lt;'FC%%2$)%*S;7.L,GRW9WRB=X-!!!N%1S"#=GFD;S"J&lt;A"B!0!!$!!$!!1!"A!(!!1!"!!%!!1!#!!%!!1!#1)!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!+!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342972416</Property>
 			</Item>
 		</Item>
 	</Item>
