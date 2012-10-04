@@ -9,6 +9,7 @@
 </Property>
 	<Item Name="Bricklets" Type="Folder">
 		<Item Name="Ambient Light Bricklet.lvclass" Type="LVClass" URL="../Classes/Ambient Light Bricklet/Ambient Light Bricklet.lvclass"/>
+		<Item Name="Barometer Bricklet.lvclass" Type="LVClass" URL="../Classes/Barometer Bricklet/Barometer Bricklet.lvclass"/>
 		<Item Name="Distance IR Bricklet.lvclass" Type="LVClass" URL="../Classes/Distance IR Bricklet/Distance IR Bricklet.lvclass"/>
 		<Item Name="Dual Relay Bricklet.lvclass" Type="LVClass" URL="../Classes/Dual Relay Bricklet/Dual Relay Bricklet.lvclass"/>
 		<Item Name="Humidity Bricklet.lvclass" Type="LVClass" URL="../Classes/Humidity Bricklet/Humidity Bricklet.lvclass"/>

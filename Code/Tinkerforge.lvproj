@@ -13,6 +13,10 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Sandbox" Type="Folder">
+			<Item Name="Environement Datalogger" Type="Folder">
+				<Item Name="Environement Datalogger.vi" Type="VI" URL="../Sandbox/Environment Datalogger/Environement Datalogger.vi"/>
+				<Item Name="Scale Values.vi" Type="VI" URL="../Sandbox/Environment Datalogger/Scale Values.vi"/>
+			</Item>
 			<Item Name="Sub VIs" Type="Folder">
 				<Item Name="Add Value to Graph Data.vi" Type="VI" URL="../Sandbox/Add Value to Graph Data.vi"/>
 			</Item>
