@@ -29,6 +29,7 @@
 		</Item>
 		<Item Name="Test" Type="Folder">
 			<Item Name="Ambient Light Bricklet Test.vi" Type="VI" URL="../Test/Ambient Light Bricklet Test.vi"/>
+			<Item Name="Barometer Bricklet Test.vi" Type="VI" URL="../Test/Barometer Bricklet Test.vi"/>
 			<Item Name="Distance IR Bricklet Test.vi" Type="VI" URL="../Test/Distance IR Bricklet Test.vi"/>
 			<Item Name="Humidity Bricklet Test.vi" Type="VI" URL="../Test/Humidity Bricklet Test.vi"/>
 			<Item Name="IO-4 Bricklet Test.vi" Type="VI" URL="../Test/IO-4 Bricklet Test.vi"/>
@@ -467,7 +468,7 @@
 				<Property Name="IncludedItemCount" Type="Int">1</Property>
 				<Property Name="IncludedItems[0]" Type="Ref">/My Computer/Tinkerforge.lvlib</Property>
 				<Property Name="IncludeProject" Type="Bool">false</Property>
-				<Property Name="Path[0]" Type="Path">../../Builds/API Sources/LV Tinkerforge.zip</Property>
+				<Property Name="Path[0]" Type="Path">../../../../Builds/API Sources/LV Tinkerforge.zip</Property>
 				<Property Name="ZipBase" Type="Str">NI_zipbasedefault</Property>
 			</Item>
 		</Item>
