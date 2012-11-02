@@ -14,13 +14,16 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Sandbox" Type="Folder">
 			<Item Name="Environement Datalogger" Type="Folder">
+				<Item Name="Add Environment Devices.vi" Type="VI" URL="../Sandbox/Add Environment Devices.vi"/>
 				<Item Name="Environement Datalogger.vi" Type="VI" URL="../Sandbox/Environment Datalogger/Environement Datalogger.vi"/>
+				<Item Name="Normalize Type String.vi" Type="VI" URL="../Sandbox/Normalize Type String.vi"/>
 				<Item Name="Scale Values.vi" Type="VI" URL="../Sandbox/Environment Datalogger/Scale Values.vi"/>
 			</Item>
 			<Item Name="Sub VIs" Type="Folder">
 				<Item Name="Add Value to Graph Data.vi" Type="VI" URL="../Sandbox/Add Value to Graph Data.vi"/>
 			</Item>
 			<Item Name="Ambient Light Bricklet Sandbox.vi" Type="VI" URL="../Sandbox/Ambient Light Bricklet Sandbox.vi"/>
+			<Item Name="IO4 Interrupt Example.vi" Type="VI" URL="../Sandbox/IO4 Interrupt Example.vi"/>
 			<Item Name="IP Connection Sandbox.vi" Type="VI" URL="../Sandbox/IP Connection Sandbox.vi"/>
 			<Item Name="Weather Station Sandbox.vi" Type="VI" URL="../Sandbox/Weather Station Sandbox.vi"/>
 		</Item>
